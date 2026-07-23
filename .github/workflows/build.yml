@@ -1,0 +1,53 @@
+name: build-docker-image
+
+on:
+  push:
+    branches: [master, main]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      packages: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Fetch audiobook from release v1.0
+        run: |
+          mkdir -p audiobook
+          base="https://github.com/Atvriders/copper-wire-and-starlight/releases/download/v1.0"
+          curl -sSfL -o audiobook/intro.mp3 "$base/intro.mp3"
+          for i in 00 01 02 03 04 05 06 07 08 09 10 11 12; do
+            curl -sSfL -o "audiobook/ch${i}.mp3" "$base/ch${i}.mp3"
+          done
+          curl -sSfL -o audiobook/epilogue.mp3 "$base/epilogue.mp3"
+          curl -sSfL -o audiobook/appendix-a.mp3 "$base/appendix-a.mp3"
+          curl -sSfL -o audiobook/appendix-b.mp3 "$base/appendix-b.mp3"
+          echo "audiobook files: $(ls audiobook | wc -l)"
+
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.11' }
+
+      - name: Build the book (HTML/TXT/PDF)
+        run: |
+          pip install -r requirements.txt
+          python3 -m playwright install --with-deps chromium || true   # optional; PDF is best-effort
+          python3 tools/build_book.py --html --txt --pdf --out build/
+
+      - name: Log in to GitHub container registry
+        uses: docker/login-action@v3
+        with:
+          registry: ghcr.io
+          username: ${{ github.actor }}
+          password: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Build and push
+        uses: docker/build-push-action@v6
+        with:
+          context: .
+          push: true
+          tags: ghcr.io/atvriders/copper-wire-and-starlight:latest
+          labels: org.opencontainers.image.source=https://github.com/Atvriders/copper-wire-and-starlight

@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 360" role="img" aria-labelledby="t9">
+<title id="t9">On a full-moon May night at the farm, Bea's magnet-wire antenna glimmers from the big oak to the barn wall while she sends Morse code from a lamp-lit table in the barn doorway, and the dits and dahs drift up like fireflies</title>
+<rect x="0" y="0" width="800" height="360" fill="#0f2a52"/>
+<g fill="#fdfcf7" opacity="0.8">
+  <circle cx="80" cy="40" r="2"/><circle cx="170" cy="56" r="1.6"/><circle cx="250" cy="34" r="1.8"/>
+  <circle cx="500" cy="36" r="1.6"/><circle cx="740" cy="36" r="2"/><circle cx="790" cy="80" r="1.6"/>
+  <circle cx="40" cy="120" r="1.8"/><circle cx="470" cy="110" r="1.4"/>
+</g>
+<circle cx="368" cy="118" r="84" fill="#ffd25e" opacity="0.14"/>
+<g>
+  <circle cx="368" cy="118" r="62" fill="#ffd25e"/>
+  <g fill="#b3a265" opacity="0.25">
+    <circle cx="346" cy="100" r="9"/><circle cx="392" cy="136" r="7"/><circle cx="360" cy="148" r="5"/>
+  </g>
+</g>
+<path d="M0 360 L0 308 Q400 284 800 308 L800 360 Z" fill="#1a3a6b"/>
+<ellipse cx="140" cy="332" rx="55" ry="11" fill="#58b368"/>
+<ellipse cx="330" cy="340" rx="60" ry="12" fill="#58b368"/>
+<ellipse cx="500" cy="336" rx="52" ry="10" fill="#58b368"/>
+<ellipse cx="730" cy="330" rx="48" ry="10" fill="#58b368"/>
+<g>
+  <rect x="120" y="205" width="16" height="125" fill="#b3a265"/>
+  <line x1="128" y1="212" x2="216" y2="118" stroke="#b3a265" stroke-width="9" stroke-linecap="round"/>
+  <line x1="126" y1="222" x2="94" y2="172" stroke="#b3a265" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="118" cy="120" r="42" fill="#58b368"/>
+  <circle cx="170" cy="100" r="36" fill="#58b368"/>
+  <circle cx="210" cy="130" r="28" fill="#58b368"/>
+  <circle cx="90" cy="160" r="26" fill="#58b368"/>
+  <circle cx="150" cy="70" r="30" fill="#58b368"/>
+  <line x1="216" y1="118" x2="129" y2="257" stroke="#d8cfae" stroke-width="2" opacity="0.8"/>
+  <rect x="122" y="254" width="14" height="7" rx="2" fill="#d8cfae"/>
+</g>
+<path d="M216 118 Q390 172 566 158" fill="none" stroke="#ffd25e" stroke-width="9" opacity="0.18"/>
+<path d="M216 118 Q390 172 566 158" fill="none" stroke="#e8734a" stroke-width="3"/>
+<path d="M216 118 Q390 172 566 158" fill="none" stroke="#ffd25e" stroke-width="1.5" stroke-dasharray="2 10" opacity="0.7"/>
+<path d="M496 160 C560 118 622 76 668 34" fill="none" stroke="#ffd25e" stroke-width="4" stroke-dasharray="4 8 14 8" stroke-linecap="round"/>
+<path d="M303 141 C264 102 246 66 254 30" fill="none" stroke="#ffd25e" stroke-width="3.5" stroke-dasharray="4 8 14 8" stroke-linecap="round" opacity="0.75"/>
+<g>
+  <rect x="560" y="150" width="220" height="165" fill="#d95555"/>
+  <path d="M548 152 L590 106 L750 106 L792 152 Z" fill="#d8cfae"/>
+  <rect x="648" y="122" width="26" height="20" fill="#ffd25e"/>
+  <line x1="661" y1="122" x2="661" y2="142" stroke="#1a3a6b" stroke-width="3"/>
+  <line x1="648" y1="132" x2="674" y2="132" stroke="#1a3a6b" stroke-width="3"/>
+  <rect x="630" y="196" width="84" height="119" fill="#ffd25e"/>
+  <rect x="624" y="188" width="96" height="9" fill="#b3a265"/>
+  <rect x="624" y="312" width="96" height="6" fill="#b3a265"/>
+  <rect x="598" y="196" width="26" height="119" fill="#b3a265"/>
+  <line x1="600" y1="302" x2="622" y2="204" stroke="#d95555" stroke-width="4"/>
+</g>
+<g>
+  <rect x="560" y="156" width="16" height="24" rx="2" fill="#d8cfae"/>
+  <polyline points="568,180 560,196 576,212 560,228 576,244 560,260 576,276 566,292" fill="none" stroke="#d8cfae" stroke-width="2.5"/>
+  <line x1="576" y1="168" x2="634" y2="198" stroke="#1a3a6b" stroke-width="3"/>
+</g>
+<g>
+  <rect x="638" y="260" width="50" height="8" rx="2" fill="#1a3a6b"/>
+  <rect x="642" y="268" width="6" height="44" fill="#1a3a6b"/>
+  <rect x="678" y="268" width="6" height="44" fill="#1a3a6b"/>
+  <line x1="646" y1="260" x2="646" y2="242" stroke="#1a3a6b" stroke-width="3.5"/>
+  <path d="M637 242 L655 242 L650 228 L642 228 Z" fill="#e8734a"/>
+  <rect x="656" y="253" width="24" height="7" rx="2" fill="#d8cfae"/>
+  <line x1="660" y1="253" x2="674" y2="245" stroke="#d8cfae" stroke-width="3" stroke-linecap="round"/>
+  <line x1="674" y1="245" x2="674" y2="239" stroke="#d8cfae" stroke-width="2.5"/>
+  <circle cx="674" cy="236" r="4" fill="#1a3a6b"/>
+  <rect x="691" y="272" width="24" height="6" rx="3" fill="#1a3a6b"/>
+  <rect x="701" y="278" width="6" height="34" fill="#1a3a6b"/>
+  <path d="M699 266 L686 282 L695 306" fill="none" stroke="#1a3a6b" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="693" y="234" width="17" height="34" rx="8" fill="#1a3a6b"/>
+  <line x1="697" y1="244" x2="676" y2="240" stroke="#1a3a6b" stroke-width="5.5" stroke-linecap="round"/>
+  <circle cx="700" cy="224" r="9.5" fill="#1a3a6b"/>
+  <circle cx="709" cy="217" r="4" fill="#1a3a6b"/>
+</g>
+<g fill="#ffd25e" opacity="0.85">
+  <circle cx="252" cy="296" r="2"/><circle cx="318" cy="314" r="1.7"/><circle cx="408" cy="300" r="2.2"/>
+  <circle cx="472" cy="318" r="1.7"/><circle cx="528" cy="298" r="2"/><circle cx="368" cy="326" r="1.6"/>
+</g>
+<text x="368" y="214" text-anchor="middle" fill="#d8cfae" font-size="15" font-family="Georgia, serif">full flower moon</text>
+<text x="586" y="56" text-anchor="middle" fill="#ffd25e" font-size="13" font-style="italic" font-family="Georgia, serif">dit-dah</text>
+</svg>

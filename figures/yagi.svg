@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 360" role="img" aria-labelledby="tYagi"><title id="tYagi">A bundled-up kid holds a tape-measure yagi aloft in light snow, yellow tape-blade elements vertical with a coax choke coil behind the reflector, a sledding hill dotted with sledders behind</title>
+<rect x="0" y="0" width="800" height="360" fill="#d8cfae"/>
+<path d="M0 250 Q180 238 380 248 Q590 260 800 246 L800 360 L0 360 Z" fill="#fdfcf7"/>
+<g fill="#58b368">
+  <path d="M54 248 L70 206 L86 248 Z"/><path d="M106 248 L120 214 L134 248 Z"/><path d="M150 250 L168 202 L186 250 Z"/>
+</g>
+<g fill="#fdfcf7">
+  <path d="M63 220 L70 206 L77 220 Z"/><path d="M114 225 L120 214 L126 225 Z"/><path d="M160 217 L168 202 L176 217 Z"/>
+</g>
+<g>
+  <path d="M415 360 L415 292 Q470 168 600 134 Q720 118 800 200 L800 360 Z" fill="#ffffff"/>
+  <path d="M636 136 Q742 152 800 208 L800 258 Q726 176 630 150 Z" fill="#d8cfae" opacity="0.45"/>
+  <g fill="none" stroke="#b3a265" stroke-width="2.5" stroke-dasharray="7 6" opacity="0.8">
+    <path d="M585 150 Q560 210 520 280"/>
+    <path d="M660 155 Q690 220 720 290"/>
+  </g>
+  <g>
+    <rect x="552" y="200" width="16" height="4" rx="2" fill="#e8734a"/><circle cx="560" cy="194" r="4" fill="#d95555"/>
+    <rect x="632" y="164" width="16" height="4" rx="2" fill="#3f6db5"/><circle cx="640" cy="158" r="4" fill="#e8734a"/>
+    <rect x="697" y="229" width="16" height="4" rx="2" fill="#d95555"/><circle cx="705" cy="219" r="4" fill="#58b368"/>
+    <rect x="512" y="266" width="16" height="4" rx="2" fill="#58b368"/><circle cx="520" cy="256" r="4" fill="#1a3a6b"/>
+  </g>
+</g>
+<g fill="none" stroke="#b3a265" stroke-width="3" stroke-dasharray="8 7">
+  <path d="M579.5 76.1 A45 45 0 0 1 585.8 124"/>
+  <path d="M602.5 56.8 A75 75 0 0 1 613 136.7"/>
+  <path d="M625.4 37.5 A105 105 0 0 1 640.1 149.4"/>
+</g>
+<text x="672" y="26" text-anchor="middle" fill="#1a3a6b" font-size="13" font-style="italic" font-family="Georgia, serif">it listens hardest forward</text>
+<g>
+  <ellipse cx="317" cy="338" rx="38" ry="6" fill="#ffffff" opacity="0.8"/>
+  <path d="M305 264 L296 297" stroke="#1a3a6b" stroke-width="9" stroke-linecap="round" fill="none"/>
+  <path d="M332 264 L338 117" stroke="#1a3a6b" stroke-width="9" stroke-linecap="round" fill="none"/>
+  <rect x="296" y="256" width="44" height="64" rx="14" fill="#1a3a6b"/>
+  <rect x="305" y="318" width="9" height="14" fill="#1a3a6b"/>
+  <rect x="322" y="318" width="9" height="14" fill="#1a3a6b"/>
+  <rect x="301" y="330" width="14" height="7" rx="2" fill="#000000"/>
+  <rect x="320" y="330" width="14" height="7" rx="2" fill="#000000"/>
+  <rect x="288" y="288" width="13" height="20" rx="3" fill="#000000"/>
+  <line x1="293" y1="288" x2="290" y2="275" stroke="#000000" stroke-width="2.5"/>
+  <ellipse cx="296" cy="300" rx="8" ry="7" fill="#d95555"/>
+  <circle cx="318" cy="239" r="13" fill="#fdfcf7"/>
+  <rect x="306" y="249" width="25" height="7" rx="3.5" fill="#58b368"/>
+  <path d="M309 256 L300 270 L313 263 Z" fill="#58b368"/>
+  <path d="M305 238 A13 13 0 0 1 331 238 Z" fill="#d95555"/>
+  <rect x="303" y="235" width="31" height="6" rx="3" fill="#d95555"/>
+  <circle cx="318" cy="222" r="4.5" fill="#fdfcf7"/>
+  <circle cx="300" cy="236" r="2.5" fill="#ffffff" opacity="0.7"/>
+  <circle cx="294" cy="232" r="1.8" fill="#ffffff" opacity="0.7"/>
+</g>
+<g>
+  <rect x="330" y="100.5" width="230" height="9" rx="4" fill="#ffffff" stroke="#d8cfae" stroke-width="1"/>
+  <rect x="388" y="100.5" width="9" height="9" fill="#3f6db5"/>
+  <rect x="352" y="96" width="16" height="18" rx="3" fill="#ffffff" stroke="#d8cfae" stroke-width="1"/>
+  <rect x="424" y="96" width="16" height="18" rx="3" fill="#ffffff" stroke="#d8cfae" stroke-width="1"/>
+  <rect x="537" y="96" width="16" height="18" rx="3" fill="#ffffff" stroke="#d8cfae" stroke-width="1"/>
+  <g fill="none" stroke="#ffd25e" stroke-width="7" stroke-linecap="round">
+    <path d="M360 168 Q356 107 362 46"/>
+    <path d="M432 99 Q429 74 434 48"/>
+    <path d="M432 111 Q435 136 430 162"/>
+    <path d="M545 160 Q541 105 548 50"/>
+  </g>
+  <g stroke="#b3a265" stroke-width="1.5">
+    <line x1="356" y1="70" x2="365" y2="70"/><line x1="356" y1="88" x2="365" y2="88"/>
+    <line x1="356" y1="128" x2="365" y2="128"/><line x1="356" y1="148" x2="365" y2="148"/>
+    <line x1="542" y1="70" x2="551" y2="70"/><line x1="542" y1="90" x2="551" y2="90"/>
+    <line x1="540" y1="130" x2="549" y2="130"/><line x1="540" y1="150" x2="549" y2="150"/>
+    <line x1="427" y1="64" x2="436" y2="64"/><line x1="426" y1="146" x2="435" y2="146"/>
+  </g>
+  <g fill="#000000">
+    <circle cx="360" cy="168" r="4.5"/><circle cx="362" cy="46" r="4.5"/>
+    <circle cx="434" cy="48" r="4.5"/><circle cx="430" cy="162" r="4.5"/>
+    <circle cx="548" cy="50" r="4.5"/><circle cx="545" cy="160" r="4.5"/>
+  </g>
+  <g fill="#b3a265">
+    <rect x="354" y="99" width="12" height="4"/><rect x="354" y="109" width="12" height="4"/>
+    <rect x="539" y="99" width="12" height="4"/><rect x="539" y="109" width="12" height="4"/>
+  </g>
+  <path d="M429 100 Q419 105 429 110" fill="none" stroke="#e8734a" stroke-width="3" stroke-linecap="round"/>
+  <path d="M431 113 L368 118 M355 140 Q348 188 328 232 Q312 268 297 289" fill="none" stroke="#000000" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="355" cy="127" r="13" fill="none" stroke="#000000" stroke-width="5.5"/>
+  <line x1="349" y1="112" x2="349" y2="121" stroke="#fdfcf7" stroke-width="2"/>
+  <line x1="361" y1="112" x2="361" y2="121" stroke="#fdfcf7" stroke-width="2"/>
+  <ellipse cx="340" cy="105" rx="9" ry="9" fill="#d95555"/>
+  <ellipse cx="347" cy="110" rx="3.5" ry="3" fill="#d95555"/>
+  <circle cx="362" cy="42" r="2" fill="#ffffff"/>
+  <circle cx="548" cy="46" r="2" fill="#ffffff"/>
+</g>
+<text x="330" y="170" text-anchor="end" fill="#1a3a6b" font-size="13" font-style="italic" font-family="Georgia, serif">the choke — seven turns</text>
+<g fill="#ffffff" opacity="0.85">
+  <circle cx="40" cy="40" r="2.4"/><circle cx="100" cy="90" r="1.8"/><circle cx="180" cy="50" r="2.2"/>
+  <circle cx="240" cy="110" r="1.7"/><circle cx="300" cy="30" r="2.5"/><circle cx="380" cy="70" r="1.8"/>
+  <circle cx="440" cy="30" r="2.1"/><circle cx="500" cy="90" r="1.6"/><circle cx="560" cy="45" r="2.3"/>
+  <circle cx="640" cy="80" r="1.9"/><circle cx="700" cy="52" r="2.4"/><circle cx="760" cy="100" r="1.8"/>
+  <circle cx="730" cy="150" r="2.2"/><circle cx="60" cy="150" r="2.0"/><circle cx="140" cy="180" r="1.7"/>
+  <circle cx="250" cy="205" r="1.8"/><circle cx="360" cy="200" r="2.0"/><circle cx="580" cy="220" r="2.2"/>
+  <circle cx="660" cy="260" r="2.4"/><circle cx="740" cy="180" r="2.0"/><circle cx="480" cy="250" r="1.8"/>
+  <circle cx="620" cy="180" r="1.7"/><circle cx="80" cy="300" r="2.6"/><circle cx="180" cy="320" r="2.2"/>
+  <circle cx="420" cy="310" r="2.4"/><circle cx="600" cy="325" r="2.6"/><circle cx="760" cy="330" r="2.5"/>
+</g>
+</svg>

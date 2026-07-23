@@ -1,0 +1,114 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 360" role="img" aria-labelledby="t8">
+<title id="t8">Under a warm desk lamp, snap-on ferrite chokes clip around a speaker cable beside a zip-tied eight-turn coax 1:1 choke, while a copper ground strap runs to a ground rod, with a soldering iron, a coffee mug, and a crate of records nearby</title>
+<rect x="0" y="0" width="800" height="360" fill="#fdfcf7"/>
+<rect x="0" y="300" width="800" height="60" fill="#d8cfae" opacity="0.5"/>
+<line x1="0" y1="300" x2="800" y2="300" stroke="#b3a265" stroke-width="3"/>
+<path d="M318 72 L382 72 L472 200 L228 200 Z" fill="#ffd25e" opacity="0.15"/>
+<g>
+  <line x1="350" y1="0" x2="350" y2="32" stroke="#1a3a6b" stroke-width="3"/>
+  <path d="M320 32 L380 32 L394 66 L306 66 Z" fill="#1a3a6b"/>
+  <circle cx="350" cy="71" r="7" fill="#ffd25e"/>
+</g>
+<g>
+  <rect x="60" y="200" width="560" height="16" rx="3" fill="#d8cfae"/>
+  <line x1="60" y1="216" x2="620" y2="216" stroke="#b3a265" stroke-width="3"/>
+  <rect x="78" y="216" width="14" height="84" fill="#b3a265"/>
+  <rect x="588" y="216" width="14" height="84" fill="#b3a265"/>
+</g>
+<path d="M517 193 L646 193 Q656 193 656 201 L656 308" fill="none" stroke="#e8734a" stroke-width="7" stroke-linejoin="round"/>
+<path d="M517 193 L646 193 Q656 193 656 201 L656 308" fill="none" stroke="#ffd25e" stroke-width="2" opacity="0.55" stroke-linejoin="round"/>
+<g>
+  <rect x="468" y="187" width="50" height="12" rx="2" fill="#e8734a"/>
+  <circle cx="480" cy="193" r="2" fill="#fdfcf7" opacity="0.9"/>
+  <circle cx="494" cy="193" r="2" fill="#fdfcf7" opacity="0.9"/>
+  <circle cx="508" cy="193" r="2" fill="#fdfcf7" opacity="0.9"/>
+</g>
+<g>
+  <rect x="86" y="150" width="52" height="50" rx="6" fill="#1a3a6b"/>
+  <circle cx="112" cy="183" r="12" fill="#0f2a52" stroke="#d8cfae" stroke-width="2.5"/>
+  <circle cx="112" cy="161" r="5" fill="#d8cfae"/>
+  <polyline points="140,193 158,189 182,195 206,190 230,194 252,191 266,194" fill="none" stroke="#1a3a6b" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <g fill="#b3a265" stroke="#1a3a6b" stroke-width="1.5">
+    <rect x="147" y="185" width="22" height="14" rx="6"/>
+    <rect x="187" y="186" width="22" height="14" rx="6"/>
+    <rect x="227" y="185" width="22" height="14" rx="6"/>
+  </g>
+  <g stroke="#fdfcf7" stroke-width="1.5" opacity="0.85">
+    <line x1="150" y1="192" x2="166" y2="192"/>
+    <line x1="190" y1="193" x2="206" y2="193"/>
+    <line x1="230" y1="192" x2="246" y2="192"/>
+  </g>
+  <path d="M258 186 A 11 11 0 0 1 280 186" fill="none" stroke="#b3a265" stroke-width="5" stroke-linecap="round"/>
+  <path d="M258 198 A 11 11 0 0 0 280 198" fill="none" stroke="#b3a265" stroke-width="5" stroke-linecap="round"/>
+  <line x1="283" y1="183" x2="288" y2="179" stroke="#b3a265" stroke-width="2" stroke-linecap="round"/>
+  <line x1="283" y1="201" x2="288" y2="205" stroke="#b3a265" stroke-width="2" stroke-linecap="round"/>
+  <text x="291" y="172" fill="#b3a265" font-size="13" font-style="italic" font-family="Georgia, serif">snap!</text>
+  <text x="198" y="170" text-anchor="middle" fill="#1a3a6b" font-size="12.5" font-family="Georgia, serif">snap-on ferrites</text>
+</g>
+<g>
+  <circle cx="360" cy="140" r="36" fill="none" stroke="#1a3a6b" stroke-width="20"/>
+  <g stroke="#d8cfae" stroke-width="3" stroke-linecap="round">
+    <line x1="378" y1="158" x2="393" y2="173"/>
+    <line x1="342" y1="158" x2="327" y2="173"/>
+    <line x1="342" y1="122" x2="327" y2="107"/>
+    <line x1="378" y1="122" x2="393" y2="107"/>
+  </g>
+  <g stroke="#fdfcf7" stroke-width="6" stroke-linecap="round">
+    <line x1="383" y1="140" x2="409" y2="140"/>
+    <line x1="360" y1="163" x2="360" y2="189"/>
+    <line x1="337" y1="140" x2="311" y2="140"/>
+    <line x1="360" y1="117" x2="360" y2="91"/>
+  </g>
+  <g fill="#1a3a6b">
+    <circle cx="406" cy="140" r="2.2"/><circle cx="360" cy="186" r="2.2"/>
+    <circle cx="314" cy="140" r="2.2"/><circle cx="360" cy="94" r="2.2"/>
+  </g>
+  <path d="M391 126 Q416 106 446 101" fill="none" stroke="#1a3a6b" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="446" cy="101" r="4" fill="#b3a265"/>
+  <path d="M394 151 Q428 168 438 194" fill="none" stroke="#1a3a6b" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="438" cy="194" r="4" fill="#b3a265"/>
+  <text x="352" y="197" text-anchor="middle" fill="#1a3a6b" font-size="12.5" font-family="Georgia, serif">1:1 choke — eight turns</text>
+</g>
+<g>
+  <line x1="530" y1="197" x2="539" y2="180" stroke="#b3a265" stroke-width="3"/>
+  <line x1="553" y1="197" x2="544" y2="180" stroke="#b3a265" stroke-width="3"/>
+  <line x1="525" y1="197" x2="559" y2="197" stroke="#b3a265" stroke-width="3"/>
+  <line x1="542" y1="182" x2="566" y2="170" stroke="#d95555" stroke-width="10" stroke-linecap="round"/>
+  <line x1="566" y1="170" x2="584" y2="162" stroke="#b3a265" stroke-width="5" stroke-linecap="round"/>
+  <line x1="584" y1="162" x2="592" y2="159" stroke="#e8734a" stroke-width="3" stroke-linecap="round"/>
+  <path d="M593 154 Q598 147 593 140 Q588 133 594 127" fill="none" stroke="#b3a265" stroke-width="2" opacity="0.7" stroke-linecap="round"/>
+  <path d="M542 182 Q533 191 542 196 Q554 202 568 198" fill="none" stroke="#1a3a6b" stroke-width="2.5" stroke-linecap="round"/>
+</g>
+<g>
+  <rect x="598" y="172" width="24" height="26" rx="5" fill="#3f6db5"/>
+  <ellipse cx="610" cy="174" rx="9" ry="2.5" fill="#1a3a6b"/>
+  <path d="M622 178 Q631 185 622 193" fill="none" stroke="#3f6db5" stroke-width="4" stroke-linecap="round"/>
+  <path d="M605 166 Q609 159 604 153" fill="none" stroke="#b3a265" stroke-width="2" opacity="0.75" stroke-linecap="round"/>
+  <path d="M613 166 Q617 159 612 153" fill="none" stroke="#b3a265" stroke-width="2" opacity="0.75" stroke-linecap="round"/>
+</g>
+<g>
+  <circle cx="656" cy="310" r="4.5" fill="none" stroke="#e8734a" stroke-width="3"/>
+  <line x1="656" y1="314" x2="656" y2="322" stroke="#1a3a6b" stroke-width="3.5"/>
+  <line x1="642" y1="322" x2="670" y2="322" stroke="#1a3a6b" stroke-width="4"/>
+  <line x1="646" y1="328" x2="666" y2="328" stroke="#1a3a6b" stroke-width="3.5"/>
+  <line x1="650" y1="334" x2="662" y2="334" stroke="#1a3a6b" stroke-width="3"/>
+  <text x="656" y="352" text-anchor="middle" fill="#1a3a6b" font-size="12" font-family="Georgia, serif">ground rod</text>
+</g>
+<g>
+  <rect x="706" y="246" width="7" height="34" fill="#1a3a6b"/>
+  <rect x="716" y="240" width="7" height="40" fill="#d95555"/>
+  <rect x="726" y="248" width="7" height="32" fill="#0f2a52"/>
+  <rect x="736" y="242" width="7" height="38" fill="#3f6db5"/>
+  <rect x="746" y="246" width="7" height="34" fill="#b3a265"/>
+  <path d="M758 244 L765 242 L771 278 L764 280 Z" fill="#e8734a"/>
+  <rect x="700" y="276" width="82" height="64" rx="3" fill="#d8cfae" stroke="#b3a265" stroke-width="4"/>
+  <g stroke="#b3a265" stroke-width="2.5">
+    <line x1="716" y1="280" x2="716" y2="336"/>
+    <line x1="732" y1="280" x2="732" y2="336"/>
+    <line x1="748" y1="280" x2="748" y2="336"/>
+    <line x1="766" y1="280" x2="766" y2="336"/>
+    <line x1="704" y1="296" x2="778" y2="296"/>
+    <line x1="704" y1="316" x2="778" y2="316"/>
+  </g>
+</g>
+</svg>

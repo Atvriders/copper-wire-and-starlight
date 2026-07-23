@@ -1,0 +1,171 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 360" role="img" aria-labelledby="tFD11">
+<title id="tFD11">Field Day at Fairview County Park: a sunny meadow of home-built junk antennas — an orange extension-cord dipole in the cottonwoods, a pop-can dipole on a bucket, a copper J-pole on a tripod, a tape-measure yagi aimed at a passing satellite, a solar panel, tents and a picnic shelter — with the rival club's crank-up tower far behind and one dark storm cloud at the edge of the sky</title>
+<rect x="0" y="0" width="800" height="360" fill="#fdfcf7"/>
+<g>
+  <circle cx="72" cy="62" r="26" fill="#ffd25e"/>
+  <g stroke="#ffd25e" stroke-width="4" stroke-linecap="round">
+    <line x1="72" y1="26" x2="72" y2="14"/><line x1="72" y1="98" x2="72" y2="110"/>
+    <line x1="36" y1="62" x2="24" y2="62"/><line x1="108" y1="62" x2="120" y2="62"/>
+    <line x1="46" y1="37" x2="38" y2="28"/><line x1="98" y1="88" x2="106" y2="96"/>
+    <line x1="98" y1="37" x2="106" y2="28"/><line x1="46" y1="88" x2="38" y2="96"/>
+  </g>
+</g>
+<g fill="#0f2a52">
+  <ellipse cx="770" cy="52" rx="30" ry="16"/>
+  <ellipse cx="745" cy="60" rx="24" ry="13"/>
+  <ellipse cx="795" cy="62" rx="22" ry="12"/>
+  <ellipse cx="770" cy="68" rx="34" ry="10"/>
+</g>
+<g stroke="#3f6db5" stroke-width="2" opacity="0.55" stroke-linecap="round">
+  <line x1="745" y1="84" x2="740" y2="98"/><line x1="762" y1="86" x2="757" y2="100"/><line x1="779" y1="84" x2="774" y2="98"/>
+</g>
+<path d="M0 360 L0 290 Q400 264 800 292 L800 360 Z" fill="#58b368"/>
+<ellipse cx="450" cy="305" rx="150" ry="18" fill="#d8cfae"/>
+<g stroke="#1a3a6b" fill="none" opacity="0.7" stroke-linecap="round">
+  <line x1="706" y1="288" x2="714" y2="168" stroke-width="3"/>
+  <line x1="748" y1="288" x2="740" y2="168" stroke-width="3"/>
+  <g stroke-width="2">
+    <line x1="708" y1="260" x2="744" y2="235"/><line x1="746" y1="260" x2="710" y2="235"/>
+    <line x1="710" y1="235" x2="743" y2="210"/><line x1="744" y1="235" x2="711" y2="210"/>
+    <line x1="711" y1="210" x2="741" y2="185"/><line x1="743" y1="210" x2="713" y2="185"/>
+    <line x1="713" y1="185" x2="739" y2="168"/><line x1="741" y1="185" x2="715" y2="168"/>
+  </g>
+  <line x1="713" y1="168" x2="741" y2="168" stroke-width="3"/>
+  <line x1="727" y1="168" x2="727" y2="161" stroke-width="3"/>
+  <line x1="692" y1="161" x2="762" y2="161" stroke-width="3"/>
+  <g stroke-width="2.5">
+    <line x1="700" y1="153" x2="700" y2="169"/><line x1="714" y1="149" x2="714" y2="173"/>
+    <line x1="728" y1="151" x2="728" y2="171"/><line x1="742" y1="153" x2="742" y2="169"/>
+    <line x1="756" y1="156" x2="756" y2="166"/>
+  </g>
+</g>
+<rect x="700" y="284" width="54" height="6" fill="#1a3a6b" opacity="0.7"/>
+<text x="727" y="308" text-anchor="middle" fill="#1a3a6b" font-size="11" font-style="italic" font-family="Georgia, serif">County Tech</text>
+<g>
+  <rect x="40" y="238" width="10" height="58" fill="#b3a265"/>
+  <circle cx="45" cy="216" r="25" fill="#58b368"/>
+  <circle cx="24" cy="226" r="15" fill="#58b368"/>
+  <circle cx="64" cy="224" r="15" fill="#58b368"/>
+</g>
+<g>
+  <rect x="112" y="200" width="14" height="96" fill="#b3a265"/>
+  <circle cx="118" cy="158" r="44" fill="#58b368"/>
+  <circle cx="82" cy="144" r="27" fill="#58b368"/>
+  <circle cx="155" cy="148" r="27" fill="#58b368"/>
+</g>
+<g>
+  <path d="M180 292 L222 250 L264 292 Z" fill="#3f6db5"/>
+  <path d="M211 292 L222 268 L233 292 Z" fill="#0f2a52"/>
+</g>
+<g>
+  <path d="M262 292 L296 256 L330 292 Z" fill="#d95555"/>
+  <path d="M287 292 L296 271 L305 292 Z" fill="#0f2a52"/>
+</g>
+<g>
+  <path d="M152 158 Q276 206 400 166" fill="none" stroke="#b3a265" stroke-width="1.5"/>
+  <path d="M183 170 L195 170 L189 181 Z" fill="#d95555"/>
+  <path d="M220 179 L232 179 L226 190 Z" fill="#ffd25e"/>
+  <path d="M258 183 L270 183 L264 194 Z" fill="#3f6db5"/>
+  <path d="M295 184 L307 184 L301 195 Z" fill="#58b368"/>
+  <path d="M332 181 L344 181 L338 192 Z" fill="#e8734a"/>
+</g>
+<g fill="none" stroke="#e8734a" stroke-width="4" stroke-linecap="round">
+  <path d="M30 256 Q75 232 119 178"/>
+  <path d="M119 178 Q193 228 267 246"/>
+</g>
+<rect x="26" y="254" width="7" height="10" fill="#b3a265"/>
+<rect x="264" y="244" width="7" height="10" fill="#b3a265"/>
+<path d="M119 178 Q240 285 352 256" fill="none" stroke="#1a3a6b" stroke-width="2" opacity="0.8"/>
+<circle cx="119" cy="178" r="4.5" fill="#0f2a52"/>
+<g>
+  <rect x="330" y="206" width="7" height="88" fill="#1a3a6b"/>
+  <rect x="463" y="206" width="7" height="88" fill="#1a3a6b"/>
+  <rect x="424" y="234" width="16" height="34" rx="6" fill="#1a3a6b"/>
+  <circle cx="432" cy="224" r="7" fill="#1a3a6b"/>
+  <path d="M425 222 a7 7 0 0 1 14 0" fill="none" stroke="#0f2a52" stroke-width="2"/>
+  <rect x="350" y="260" width="5" height="30" fill="#b3a265"/>
+  <rect x="387" y="260" width="5" height="30" fill="#b3a265"/>
+  <rect x="410" y="260" width="5" height="30" fill="#b3a265"/>
+  <rect x="447" y="260" width="5" height="30" fill="#b3a265"/>
+  <rect x="345" y="250" width="52" height="10" rx="2" fill="#d8cfae"/>
+  <rect x="405" y="250" width="52" height="10" rx="2" fill="#d8cfae"/>
+  <rect x="350" y="232" width="40" height="18" rx="3" fill="#1a3a6b"/>
+  <circle cx="359" cy="241" r="3.5" fill="#ffd25e"/>
+  <circle cx="373" cy="241" r="3.5" fill="#d8cfae"/>
+  <line x1="381" y1="237" x2="385" y2="237" stroke="#58b368" stroke-width="1.5"/>
+  <line x1="381" y1="245" x2="385" y2="245" stroke="#58b368" stroke-width="1.5"/>
+  <rect x="412" y="232" width="40" height="18" rx="3" fill="#1a3a6b"/>
+  <circle cx="421" cy="241" r="3.5" fill="#58b368"/>
+  <circle cx="435" cy="241" r="3.5" fill="#d8cfae"/>
+  <line x1="443" y1="237" x2="447" y2="237" stroke="#ffd25e" stroke-width="1.5"/>
+  <line x1="443" y1="245" x2="447" y2="245" stroke="#ffd25e" stroke-width="1.5"/>
+  <ellipse cx="371" cy="290" rx="12" ry="6" fill="#0f2a52"/>
+  <circle cx="361" cy="287" r="5" fill="#0f2a52"/>
+  <circle cx="358" cy="282" r="2" fill="#0f2a52"/>
+  <path d="M382 289 q4 -1 4 -4" fill="none" stroke="#0f2a52" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M318 208 L400 168 L482 208 Z" fill="#d95555"/>
+  <line x1="376" y1="208" x2="376" y2="212" stroke="#1a3a6b" stroke-width="1.5"/>
+  <line x1="412" y1="208" x2="412" y2="212" stroke="#1a3a6b" stroke-width="1.5"/>
+  <rect x="366" y="212" width="56" height="18" rx="2" fill="#fdfcf7" stroke="#1a3a6b" stroke-width="2"/>
+  <text x="394" y="225" text-anchor="middle" fill="#1a3a6b" font-size="12" font-family="Georgia, serif">N8OWL</text>
+</g>
+<g>
+  <line x1="255" y1="220" x2="255" y2="320" stroke="#b3a265" stroke-width="4"/>
+  <line x1="208" y1="228" x2="302" y2="228" stroke="#b3a265" stroke-width="2.5"/>
+  <g fill="#d95555">
+    <rect x="210" y="224" width="10" height="7"/><rect x="221" y="224" width="10" height="7"/>
+    <rect x="232" y="224" width="10" height="7"/><rect x="243" y="224" width="10" height="7"/>
+    <rect x="257" y="224" width="10" height="7"/><rect x="268" y="224" width="10" height="7"/>
+    <rect x="279" y="224" width="10" height="7"/><rect x="290" y="224" width="10" height="7"/>
+  </g>
+  <path d="M238 318 L272 318 L268 336 L242 336 Z" fill="#d8cfae"/>
+  <ellipse cx="255" cy="318" rx="17" ry="4.5" fill="#b3a265"/>
+  <path d="M240 319 Q255 308 270 319" fill="none" stroke="#b3a265" stroke-width="2"/>
+</g>
+<text x="255" y="353" text-anchor="middle" fill="#1a3a6b" font-size="12" font-style="italic" font-family="Georgia, serif">resonant trash</text>
+<g>
+  <line x1="522" y1="294" x2="516" y2="315" stroke="#1a3a6b" stroke-width="3"/>
+  <line x1="546" y1="285" x2="554" y2="311" stroke="#1a3a6b" stroke-width="3"/>
+  <path d="M554 286 Q514 320 472 295" fill="none" stroke="#1a3a6b" stroke-width="1.5" opacity="0.75"/>
+  <polygon points="512,298 558,280 558,256 512,274" fill="#3f6db5"/>
+  <g stroke="#fdfcf7" stroke-width="1.5" opacity="0.85">
+    <line x1="527" y1="292" x2="527" y2="268"/>
+    <line x1="543" y1="286" x2="543" y2="262"/>
+    <line x1="512" y1="286" x2="558" y2="268"/>
+  </g>
+</g>
+<g>
+  <line x1="582" y1="232" x2="562" y2="314" stroke="#d8cfae" stroke-width="1.5" opacity="0.9"/>
+  <line x1="582" y1="232" x2="606" y2="308" stroke="#d8cfae" stroke-width="1.5" opacity="0.9"/>
+  <circle cx="562" cy="314" r="2.5" fill="#b3a265"/>
+  <circle cx="606" cy="308" r="2.5" fill="#b3a265"/>
+  <line x1="582" y1="262" x2="566" y2="318" stroke="#1a3a6b" stroke-width="3" stroke-linecap="round"/>
+  <line x1="582" y1="262" x2="583" y2="320" stroke="#1a3a6b" stroke-width="3" stroke-linecap="round"/>
+  <line x1="582" y1="262" x2="600" y2="316" stroke="#1a3a6b" stroke-width="3" stroke-linecap="round"/>
+  <line x1="582" y1="262" x2="582" y2="192" stroke="#b3a265" stroke-width="5" stroke-linecap="round"/>
+  <line x1="589" y1="260" x2="589" y2="224" stroke="#b3a265" stroke-width="4" stroke-linecap="round"/>
+  <line x1="578" y1="258" x2="592" y2="258" stroke="#b3a265" stroke-width="3"/>
+  <circle cx="582" cy="262" r="3.5" fill="#0f2a52"/>
+</g>
+<g>
+  <rect x="594" y="309" width="5" height="23" fill="#b3a265"/>
+  <rect x="644" y="309" width="5" height="23" fill="#b3a265"/>
+  <rect x="588" y="300" width="64" height="9" rx="2" fill="#d8cfae"/>
+  <line x1="612" y1="300" x2="664" y2="232" stroke="#1a3a6b" stroke-width="4" stroke-linecap="round"/>
+  <g stroke="#b3a265" stroke-width="3.5" stroke-linecap="round">
+    <line x1="602" y1="278" x2="636" y2="304"/>
+    <line x1="618" y1="263" x2="648" y2="286"/>
+    <line x1="634" y1="248" x2="660" y2="268"/>
+    <line x1="648" y1="236" x2="670" y2="253"/>
+  </g>
+  <circle cx="612" cy="300" r="3.5" fill="#0f2a52"/>
+  <path d="M670 224 Q692 152 690 94" fill="none" stroke="#e8734a" stroke-width="2.5" stroke-dasharray="6 6" opacity="0.85"/>
+  <rect x="676" y="84" width="28" height="5" rx="1" fill="#3f6db5"/>
+  <circle cx="690" cy="86.5" r="4" fill="#d8cfae"/>
+  <rect x="662" y="308" width="5" height="14" fill="#0f2a52"/>
+  <rect x="670" y="308" width="5" height="14" fill="#0f2a52"/>
+  <rect x="659" y="280" width="18" height="30" rx="7" fill="#0f2a52"/>
+  <circle cx="668" cy="271" r="7" fill="#0f2a52"/>
+  <line x1="675" y1="286" x2="691" y2="263" stroke="#0f2a52" stroke-width="4" stroke-linecap="round"/>
+</g>
+</svg>

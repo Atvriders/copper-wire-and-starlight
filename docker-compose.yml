@@ -1,0 +1,7 @@
+services:
+  copper-wire-and-starlight:
+    image: ghcr.io/atvriders/copper-wire-and-starlight:latest
+    container_name: copper-wire-and-starlight
+    ports:
+      - "3025:80"
+    restart: unless-stopped

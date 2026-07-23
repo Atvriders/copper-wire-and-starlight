@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 360" role="img" aria-labelledby="t10">
+<title id="t10">Four teenagers in a school parking lot at night point a tape-measure yagi antenna up at the bright dot of the ISS crossing a starry sky, while a laptop glows on a car hood</title>
+<rect x="0" y="0" width="800" height="360" fill="#0f2a52"/>
+<g fill="#fdfcf7" opacity="0.8">
+  <circle cx="120" cy="40" r="2"/><circle cx="300" cy="28" r="1.6"/><circle cx="480" cy="42" r="2"/>
+  <circle cx="620" cy="30" r="1.6"/><circle cx="740" cy="60" r="2"/><circle cx="200" cy="80" r="1.4"/>
+  <circle cx="360" cy="64" r="1.4"/><circle cx="60" cy="150" r="1.6"/><circle cx="90" cy="220" r="1.4"/>
+  <circle cx="700" cy="170" r="1.4"/><circle cx="770" cy="120" r="1.6"/><circle cx="430" cy="110" r="1.2"/>
+  <circle cx="250" cy="140" r="1.4"/><circle cx="150" cy="180" r="1.2"/><circle cx="330" cy="200" r="1.2"/>
+  <circle cx="660" cy="220" r="1.3"/>
+</g>
+<path d="M28 240 Q350 132 716 74" fill="none" stroke="#ffd25e" stroke-width="2.5" stroke-dasharray="8 8" opacity="0.85" stroke-linecap="round"/>
+<path d="M719 73 L706 70 L704 80 Z" fill="#ffd25e"/>
+<g>
+  <circle cx="536" cy="106" r="13" fill="#ffd25e" opacity="0.25"/>
+  <circle cx="536" cy="106" r="5" fill="#ffd25e"/>
+  <g stroke="#ffd25e" stroke-width="2.5" stroke-linecap="round">
+    <line x1="536" y1="90" x2="536" y2="97"/><line x1="536" y1="115" x2="536" y2="122"/>
+    <line x1="520" y1="106" x2="527" y2="106"/><line x1="545" y1="106" x2="552" y2="106"/>
+  </g>
+  <text x="558" y="98" fill="#ffd25e" font-size="13" font-family="Georgia, serif">ISS</text>
+</g>
+<rect x="0" y="292" width="800" height="68" fill="#1a3a6b"/>
+<path d="M0 252 Q70 230 140 252 L140 292 L0 292 Z" fill="#1a3a6b"/>
+<rect x="28" y="264" width="14" height="9" fill="#ffd25e" opacity="0.3"/>
+<rect x="60" y="266" width="14" height="9" fill="#ffd25e" opacity="0.3"/>
+<line x1="140" y1="292" x2="800" y2="292" stroke="#d8cfae" stroke-width="2" opacity="0.35"/>
+<g>
+  <line x1="196" y1="206" x2="196" y2="292" stroke="#b3a265" stroke-width="4"/>
+  <line x1="196" y1="210" x2="212" y2="210" stroke="#b3a265" stroke-width="3"/>
+  <circle cx="214" cy="214" r="20" fill="#ffd25e" opacity="0.12"/>
+  <circle cx="214" cy="214" r="4" fill="#ffd25e" opacity="0.7"/>
+</g>
+<g>
+  <line x1="772" y1="214" x2="772" y2="292" stroke="#b3a265" stroke-width="4"/>
+  <line x1="772" y1="218" x2="758" y2="218" stroke="#b3a265" stroke-width="3"/>
+  <circle cx="756" cy="222" r="18" fill="#ffd25e" opacity="0.12"/>
+  <circle cx="756" cy="222" r="4" fill="#ffd25e" opacity="0.7"/>
+</g>
+<g stroke="#fdfcf7" stroke-width="3" opacity="0.25" stroke-linecap="round">
+  <line x1="60" y1="322" x2="108" y2="322"/>
+  <line x1="240" y1="334" x2="292" y2="334"/>
+  <line x1="520" y1="326" x2="568" y2="326"/>
+  <line x1="650" y1="340" x2="700" y2="340"/>
+</g>
+<g>
+  <rect x="575" y="292" width="165" height="27" rx="9" fill="#3f6db5"/>
+  <path d="M608 292 L620 268 L688 268 L702 292 Z" fill="#3f6db5"/>
+  <path d="M628 287 L636 273 L682 273 L691 287 Z" fill="#0f2a52"/>
+  <circle cx="614" cy="319" r="12" fill="#0f2a52"/><circle cx="614" cy="319" r="4" fill="#b3a265"/>
+  <circle cx="700" cy="319" r="12" fill="#0f2a52"/><circle cx="700" cy="319" r="4" fill="#b3a265"/>
+  <circle cx="579" cy="302" r="3.5" fill="#ffd25e" opacity="0.5"/>
+</g>
+<g>
+  <circle cx="595" cy="279" r="17" fill="#ffd25e" opacity="0.15"/>
+  <rect x="582" y="288" width="26" height="4" rx="1.5" fill="#d8cfae"/>
+  <rect x="583" y="270" width="23" height="18" rx="2" fill="#fdfcf7"/>
+  <path d="M586 283 Q594 275 602 283" fill="none" stroke="#3f6db5" stroke-width="1.5"/>
+</g>
+<g>
+  <line x1="283" y1="305" x2="283" y2="338" stroke="#0f2a52" stroke-width="6"/>
+  <line x1="294" y1="305" x2="294" y2="338" stroke="#0f2a52" stroke-width="6"/>
+  <rect x="277" y="271" width="22" height="34" rx="9" fill="#3f6db5"/>
+  <circle cx="288" cy="262" r="9" fill="#d8cfae"/>
+  <line x1="298" y1="276" x2="312" y2="258" stroke="#3f6db5" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="312" cy="252" r="8" fill="#ffd25e" opacity="0.2"/>
+  <rect x="308" y="246" width="8" height="13" rx="2" fill="#fdfcf7"/>
+</g>
+<g>
+  <line x1="345" y1="301" x2="345" y2="338" stroke="#0f2a52" stroke-width="6"/>
+  <line x1="356" y1="301" x2="356" y2="338" stroke="#0f2a52" stroke-width="6"/>
+  <rect x="339" y="261" width="22" height="40" rx="9" fill="#d95555"/>
+  <circle cx="350" cy="252" r="9" fill="#d8cfae"/>
+  <line x1="342" y1="268" x2="346" y2="233" stroke="#d95555" stroke-width="5" stroke-linecap="round"/>
+  <line x1="359" y1="268" x2="357" y2="231" stroke="#d95555" stroke-width="5" stroke-linecap="round"/>
+  <line x1="332" y1="242" x2="436" y2="172" stroke="#b3a265" stroke-width="4" stroke-linecap="round"/>
+  <g stroke="#d8cfae" stroke-width="3" stroke-linecap="round">
+    <line x1="349" y1="210" x2="367" y2="238"/>
+    <line x1="376" y1="195" x2="392" y2="220"/>
+    <line x1="403" y1="178" x2="417" y2="200"/>
+  </g>
+</g>
+<g>
+  <line x1="427" y1="303" x2="427" y2="338" stroke="#0f2a52" stroke-width="6"/>
+  <line x1="438" y1="303" x2="438" y2="338" stroke="#0f2a52" stroke-width="6"/>
+  <rect x="421" y="267" width="22" height="36" rx="9" fill="#58b368"/>
+  <circle cx="432" cy="258" r="9" fill="#d8cfae"/>
+  <line x1="443" y1="272" x2="472" y2="232" stroke="#58b368" stroke-width="5" stroke-linecap="round"/>
+  <line x1="422" y1="272" x2="416" y2="296" stroke="#58b368" stroke-width="5" stroke-linecap="round"/>
+</g>
+<g>
+  <line x1="487" y1="305" x2="487" y2="338" stroke="#0f2a52" stroke-width="6"/>
+  <line x1="498" y1="305" x2="498" y2="338" stroke="#0f2a52" stroke-width="6"/>
+  <rect x="481" y="273" width="22" height="32" rx="9" fill="#b3a265"/>
+  <circle cx="492" cy="264" r="9" fill="#d8cfae"/>
+  <line x1="482" y1="278" x2="470" y2="292" stroke="#b3a265" stroke-width="5" stroke-linecap="round"/>
+  <rect x="462" y="288" width="10" height="14" rx="2" fill="#0f2a52"/>
+  <line x1="467" y1="288" x2="467" y2="278" stroke="#0f2a52" stroke-width="2"/>
+  <rect x="464" y="291" width="6" height="3" fill="#ffd25e" opacity="0.8"/>
+</g>
+<text x="452" y="150" text-anchor="middle" fill="#d8cfae" font-size="13" font-style="italic" font-family="Georgia, serif">braap!</text>
+</svg>
