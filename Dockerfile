@@ -6,3 +6,4 @@ COPY chapters/ /usr/share/nginx/html/chapters/
 COPY appendices/ /usr/share/nginx/html/appendices/
 COPY audiobook/ /usr/share/nginx/html/audiobook/
 COPY docker/audiobook-index.html /usr/share/nginx/html/audiobook/index.html
+COPY docker/favicon.svg /usr/share/nginx/html/favicon.svg
