@@ -47,6 +47,31 @@
   a.dl { font-size: 0.85em; color: #1a3a6b; }
   p.back { text-align: center; margin-top: 2em; }
   p.back a { color: #1a3a6b; }
+  .playbar {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    gap: 0.8em;
+    border: 2px solid #d8cfae;
+    border-radius: 12px;
+    background: #fff;
+    padding: 0.7em 1em;
+    margin: 0 auto 1.5em;
+    max-width: 34em;
+  }
+  .playbar button {
+    font-family: inherit;
+    font-size: 0.95em;
+    color: #fdfcf7;
+    background: #1a3a6b;
+    border: none;
+    border-radius: 8px;
+    padding: 0.45em 1.1em;
+    cursor: pointer;
+  }
+  .playbar button:hover { background: #e8734a; }
+  .playbar label { font-size: 0.9em; color: #444; }
 </style>
 </head>
 <body>
@@ -54,7 +79,10 @@
 <p class="sub">The audiobook — one track per chapter, read by Ava</p>
 <p class="meta">17 tracks &middot; more than 8 hours</p>
 
-<label class="cont"><input type="checkbox" id="cont" checked> continuous play</label>
+<div class="playbar">
+  <button id="playall" type="button">&#9654; Play all</button>
+  <label class="cont" for="cont"><input type="checkbox" id="cont" checked> auto-play next chapter</label>
+</div>
 
 <ul class="tracks">
   <li class="track">
@@ -147,9 +175,10 @@
 <p class="back"><a href="/">&larr; back to the book</a> &middot; <a href="https://github.com/Atvriders/copper-wire-and-starlight">Source on GitHub</a></p>
 
 <script>
-// Continuous playback: when a track ends, advance to the next one.
+// Auto-play next chapter: when a track ends, advance to the next one.
 (function () {
   var cont = document.getElementById("cont");
+  var playall = document.getElementById("playall");
   var audios = Array.prototype.slice.call(document.querySelectorAll("audio"));
   audios.forEach(function (audio, i) {
     audio.addEventListener("ended", function () {
@@ -158,6 +187,17 @@
         audios[i + 1].play();
       }
     });
+    // Only one track audible at a time.
+    audio.addEventListener("play", function () {
+      audios.forEach(function (other) {
+        if (other !== audio) other.pause();
+      });
+    });
+  });
+  playall.addEventListener("click", function () {
+    cont.checked = true;
+    audios[0].scrollIntoView({ behavior: "smooth", block: "center" });
+    audios[0].play();
   });
 })();
 </script>
