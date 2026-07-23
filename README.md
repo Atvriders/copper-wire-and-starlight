@@ -25,6 +25,16 @@ pipeline. Sibling projects:
 **[Mia and the Sky-Skipping Radio](https://github.com/Atvriders/ham-radio-storybook)**,
 whose build machinery this repo reuses.
 
+Planning the book — the outline, the characters, and a style bible with every
+antenna dimension pinned down — took about **fifteen minutes**. Building it took
+about **nine hours** from first prompt to published Docker image: the main agent
+wrote the Prologue and Chapter 1 itself, then coordinated **33 subagents** —
+14 chapter writers in parallel, 14 figure artists, 3 continuity reviewers (about
+45 issues found and fixed before publication), and a tooling agent for the
+pipeline. Synthesizing the 9¾-hour audiobook took about an hour. Across all of
+it: **792 model turns, ≈ 1.5 million tokens written, ≈ 72 million tokens
+processed in total** — one session, one day.
+
 | | |
 |---|---|
 | **Sections** | Making-of introduction + prologue + 12 chapters + epilogue, plus 2 appendices |
