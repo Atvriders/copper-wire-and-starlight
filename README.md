@@ -32,7 +32,12 @@ whose build machinery this repo reuses.
 | **Illustrations** | 14 (hand-authored SVG, inlined at build time) |
 | **Audiobook** | 17 tracks, ≈ 9¾ hours total (edge-tts, voice `en-US-AvaNeural`, −8%) |
 | **Process** | A series bible ([`STYLE.md`](STYLE.md)), then 14 parallel writer agents, 3 continuity reviewers (≈ 45 fixes applied), 14 figure agents, and a tooling agent — all coordinated by the main agent, which wrote the Prologue and Chapter 1 itself |
-| **Wall time** | ≈ 7 hours for the whole project |
+| **Model turns** | 792 across 34 agents (1 main + 33 subagents) |
+| **Output tokens** | ≈ 1,549,000 — everything the model wrote: story, code, figures |
+| **Total API tokens** | ≈ 71.9 million, summed over all turns (the agents re-read the growing book every turn; nearly all input was served from cache) |
+| **Wall time** | ≈ 9 hours from first prompt to published image: ≈ 15 min planning, the writing/figure/tooling work mostly parallelized over the afternoon, and ≈ 1 hour of edge-tts synthesis for the 9¾-hour audiobook |
+
+Measured at ship from the session's wire-log `usage` records.
 
 ## Formats
 
