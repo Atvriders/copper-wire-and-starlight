@@ -162,6 +162,10 @@ def prepare_text(body: str) -> str:
 def prepare(path: Path) -> tuple[str, str]:
     """Return (spoken title, narration text) for one section file."""
     text = path.read_text(encoding="utf-8").replace("\r\n", "\n")
+    # Drop the book editions' front-matter "## Introduction: How This Book Was
+    # Made" block (up to the next section heading). The audiobook's making-of
+    # intro is its own track, built by make_intro.py.
+    text = re.sub(r"^## Introduction: How This Book Was Made.*?(?=^## )", "", text, flags=re.S | re.M)
     m = _SECTION_HEADING_RE.search(text)
     heading = m.group(1).strip() if m else path.stem
     title = spoken_heading(heading)

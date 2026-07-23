@@ -27,7 +27,7 @@ whose build machinery this repo reuses.
 
 | | |
 |---|---|
-| **Sections** | Prologue + 12 chapters + epilogue, plus 2 appendices |
+| **Sections** | Making-of introduction + prologue + 12 chapters + epilogue, plus 2 appendices |
 | **Words** | ≈ 90,600 |
 | **Illustrations** | 14 (hand-authored SVG, inlined at build time) |
 | **Audiobook** | 17 tracks, ≈ 9¾ hours total (edge-tts, voice `en-US-AvaNeural`, −8%) |
